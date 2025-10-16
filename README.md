@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Aurimas Ransys 👋
 
-<!--
-**aransys/aransys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer** based in Leeds, UK
 
-Here are some ideas to get you started:
+🌐 **Portfolio:** [ransys.dev](https://ransys.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+**Frontend:** HTML5 • CSS3 • JavaScript (ES6+) • Responsive Design  
+**Backend:** Python • Django • PostgreSQL • REST APIs  
+**Tools:** Git • GitHub • VS Code • Render
+
+## 🔥 Featured Projects
+
+🏆 [**QuickGigs Platform**](https://quickgigs-django.onrender.com/) - Full-stack Django marketplace with Stripe payment integration  
+🧺 [**Worcester Laundry**](https://aransys.github.io/Project-1/) - Responsive landing page with modern CSS  
+🎵 [**Music Explorer**](https://aransys.github.io/Project-2/) - Interactive music discovery app with API integration
+
+## 📫 Get In Touch
+
+📧 ransys.dev@gmail.com  
+💼 [LinkedIn](https://uk.linkedin.com/in/aurimas-ransys)  
+📷 [Instagram](https://www.instagram.com/aurimasran)
+
+---
+
+💡 *Currently open to new opportunities!*
