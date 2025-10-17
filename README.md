@@ -55,12 +55,6 @@ My personal portfolio with Matrix trilogy theme switcher and smooth animations.
 
 ---
 
-## 📊 GitHub Stats
-
-![Aurimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=aransys&show_icons=true&theme=radical)
-
----
-
 ## 📫 Get In Touch
 
 📧 **Email:** ransys.dev@gmail.com  
